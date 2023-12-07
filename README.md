@@ -1,5 +1,7 @@
 # Twitter Sentiment Analysis
 
+![twitter](https://github.com/praneethk2401/Twitter-Sentiment-Analysis/assets/69918295/024a0d78-704d-436d-a622-e7eac8d55fe0)
+
 This is a project on sentiment analysis of tweets using Python programming language and various libraries such as Snscrape, TextBlob, NLTK, and Scikit-learn.
 
 ## Objective
